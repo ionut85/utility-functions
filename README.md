@@ -1,3 +1,4 @@
+_Before we start_
 _A collection of JavaScript utility functions!_
 
 # Examples
